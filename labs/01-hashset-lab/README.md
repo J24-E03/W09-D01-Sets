@@ -1,4 +1,4 @@
-# HashSet Exercises for Career Development
+# HashSet Exercises1_2_3 for Career Development
 
 HashSets are a crucial part of any developer's toolkit, particularly for scenarios that involve unique elements, membership checking, and operations on sets. Below are some meaningful exercises that cover both basic and advanced uses of **HashSets** to help students prepare for real-world applications.
 
