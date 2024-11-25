@@ -28,6 +28,10 @@ public class Voting {
 
         try {
             ballot = this.findBallot(ballot);
+            if (this.hasVoted(ballot)) {
+                return false;
+            }
+
             ballot.setVoted(true);
             ballot.setCrosses(true);
 
